@@ -1,0 +1,357 @@
+body {
+    margin-top: 0 px;
+    margin-left: 0px;
+    font-family: Arial;
+}
+.imgprincipal {
+    position:absolute;
+    width: 400px;
+    height: 400px;
+    top: 120px;
+    right: 100px;
+    border-radius: 25%;
+    border: 1rem ;
+    display: inline-block;
+}
+.imgprincipal2 {
+    position:absolute;
+    border-radius: 25%;
+    border: 1rem ;
+    width: 35px;
+    height: 35px; 
+    left: 40px;
+    top: 22px;
+}
+.titulo1 {
+    text-align: left;
+    color:#2E3C4C;
+    font-size: 30px;
+    display: inline-block;
+    position: absolute;
+    top: 125px;
+    left: 80px;
+}
+.texinicio {
+    text-align: left;
+    color: #000;;
+    font-size: 15px;
+    display: inline-block;
+    position: absolute;
+    top: 220px;
+    left: 80px;
+    font-weight: lighter;
+}
+.b-sm{
+    background-color: #0067E6;
+    position: absolute;
+    top: 350px;
+    left: 80px;
+    padding: 5px;
+}
+.logo {
+    font-size:30px;
+    color: #292D33;
+    font-weight: bold;
+    padding-left: 80px;
+    padding-top: 15px;
+    display: inline-block;
+}
+
+.nav {
+    color:white;
+    text-align: center;
+    display: inline-block;
+    margin-left: 240px;
+}
+.faq{
+    text-align: left;
+    display: inline-block;
+    margin-left: 200px;
+}
+.serv {
+    align-items: center;
+    display: block;
+    position: absolute;
+}
+.frm{
+    text-align: justify;
+    position: absolute;
+    display: block;
+    margin-left: 50px;
+}
+button{
+    background-color: #335580;
+    color: white;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+button:hover{
+    background-color: white;
+    color: #335580;
+    padding: 7;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+a:link {
+    background-color: #0067E6;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+a:visited {
+    background-color:#0067E6;
+    color: white;
+    padding: 10px, 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+ 
+a:hover {
+    background-color: white;
+    color: #0067E6;
+    padding: 10px, 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+/* fim da primeira pagina*/
+
+
+
+.imagem2 {
+    top: 760px;
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    left: 100px;
+    display: inline-block;
+    border-radius: 25%;
+}
+
+.titulo2 {
+    right: 400px;
+    top: 590px;
+    font-size: 40px;
+    color:#576E91;
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+
+}
+.titulo3 {
+    position: absolute;
+    top: 750px;
+    right:180px ;
+    font-size: 25px;
+    color:#2E3C4C;
+    display: inline-block;
+}
+.texto2 {
+    position: absolute;
+    top: 830px;
+    right: 207px;
+    font-size: 15px;
+    color: #000;;
+    display: inline-block;
+    font-weight: bold;
+    font-weight: lighter;
+
+}
+.b-produ {
+    background-color: #0067E6;
+    position: absolute;
+    top: 970px;
+    right: 350px;
+    padding: 5px;
+}
+/*fim da pagina dois*/
+
+.titulo4 {
+    left: 230px;
+    top: 1200px;
+    font-size: 40px;
+    color:#576E91;
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+}
+.imagem3{
+    top: 1350px;
+    height: 475px;
+    position: absolute;
+    left: 125px;
+    display: inline-block;
+    border-radius: 5%;
+    border: 1rem ;
+}
+.imagem4{
+    top: 1350px;
+    height: 475px;
+    left: 487px;
+    position: absolute;
+    display: inline-block;
+    border-radius: 5%;
+    border: 1rem ;
+}
+.imagem5{
+    top: 1350px;
+    height: 475px;
+   left: 850px;
+    position:absolute;
+    display: inline-block;
+    border-radius: 5%;
+    border: 1rem ;
+}
+/* fim da pagina tres*/
+
+.titulo5{
+    left: 380px;
+    top: 1900px;
+    font-size: 40px;
+    color:#576E91;
+    display: inline-block;
+    position: absolute;
+    text-align: center; 
+}
+.imagem6{
+    top: 2175px;
+    height: 250px;
+    left: 175px;
+    position: absolute;
+    border-radius: 5%;
+    border: 1rem ;
+}
+.imagem7{
+    top: 2125px;
+    height: 45px;
+    left: 185px;
+    position: absolute;
+    border-radius: 5%;
+    border: 1rem ;
+}
+.imagem8{
+    top: 2175px;
+    height:250px;
+    right: 150px;
+    position: absolute;
+    border-radius: 5%;
+    border: 1rem ;
+}
+.imagem9{
+    top: 2125px;
+    height: 45px;
+    right: 145px;
+    position: absolute;
+    border-radius: 5%;
+    border: 1rem ;
+}
+.imagem10{
+    top:   2175px;
+    height: 250px;
+    left:  480px;
+    position: absolute;
+    border-radius: 5%;
+    border: 1rem ;
+}
+.imagem11{
+    top: 2125px;
+    height: 45px;
+    left:  530px;
+    position: absolute;
+    border-radius: 5%;
+    border: 1rem ;
+}
+.imagem12{
+    top: 2505px;
+    height: 150px;
+    right: 415px;
+    position: absolute;
+    border-radius: 5%;
+    border: 1rem ;
+}
+.b-sm2{
+    background-color: #0067E6;
+    position: absolute;
+    top: 2670px;
+    right: 600px;
+    padding: 5px;
+}
+/* fim da pagina quatro*/
+
+
+.titulo6{
+    color: #292D33;
+    position: relative;
+    top: 2900px;
+    left: 650px;
+    font-size:40px;
+    transform: translate(-50%,-50%);
+}
+.container{
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+}
+
+.imagem14{
+    transform: translate(-50%,-50%);
+    top: 3750px;
+    left: 640px;
+    position:absolute;
+    height: 2100px;
+}
+.imagem15{
+    top: 3050px;
+    height: 300px;
+    width: 400px;
+    left: 115px;
+    position: absolute;
+    border-radius: 5%;
+    border: 1rem ;
+}
+.texto3{
+    color: #000;
+    position: relative;
+    top: 3115px;
+    left:  850px;
+    font-size:15px;
+    transform: translate(-50%,-50%);
+    text-align: left;
+    font-weight: lighter;
+}
+.subtitulo{
+    color: #262b33;
+    position: relative;
+    top: 2900px;
+    left:  850px;
+    font-size:20px;
+    transform: translate(-50%,-50%);
+    text-align: left;
+}
+.titulo7{
+    color: #292D33;
+    position: relative;
+    top: 3200px;
+    left: 650px;
+    font-size:40px;
+    transform: translate(-50%,-50%);
+}
+
+/* isso é teste, os codigos certo coloca em cima*/
