@@ -1,0 +1,14 @@
+.body2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.quadrado {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
