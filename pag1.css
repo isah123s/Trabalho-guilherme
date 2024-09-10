@@ -5,8 +5,8 @@ body {
 }
 .imgprincipal {
     position:absolute;
-    width: 400px;
-    height: 400px;
+    width: 450px;
+    height: 390px;
     top: 120px;
     right: 100px;
     border-radius: 25%;
@@ -137,8 +137,8 @@ a:hover {
 
 .imagem2 {
     top: 760px;
-    height: 400px;
-    width: 400px;
+    height: 420px;
+    width: 450px;
     position: absolute;
     left: 100px;
     display: inline-block;
@@ -166,7 +166,7 @@ a:hover {
 .texto2 {
     position: absolute;
     top: 830px;
-    right: 207px;
+    right: 235px;
     font-size: 15px;
     color: #000;;
     display: inline-block;
@@ -316,6 +316,15 @@ a:hover {
     left: 640px;
     position:absolute;
     height: 2100px;
+}
+.imagemfunçoes{
+     top: 3590px;
+    height: 350px;
+    width: 1100px;
+    left: 90px;
+    position: absolute;
+    border-radius: 5%;
+    border: 1rem ;
 }
 .imagem15{
     top: 3050px;
