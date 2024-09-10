@@ -362,5 +362,22 @@ a:hover {
     font-size:40px;
     transform: translate(-50%,-50%);
 }
+.body2 { /*quadrado do fundo*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.fundoazul {
+    width: 450px;
+    height: 500px;
+    background-color: rgb(205, 234, 255);
+    left: 750px;
+    border-radius: 10px;
+}
 
 /* isso é teste, os codigos certo coloca em cima*/
+
